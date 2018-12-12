@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{various view specific mehods}
   spec.description   = %q{provided generated HTML data}
-  spec.homepage      = "https://devcamp.com"
+  spec.homepage      = "https://github.com/takayone/devcamp_view_tool_2"
 
 
   # Specify which files should be added to the gem when it is released.
